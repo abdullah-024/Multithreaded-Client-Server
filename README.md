@@ -1,4 +1,4 @@
-#Multi Threaded Client-Server Application
+#Multi Threaded Client-Server Application with Tkinter GUI
 
 Multiple Clients can connect to a Server at the same time.
 
@@ -7,3 +7,5 @@ Server can send messsages to all Clients at the same time.
 
 **Open a Terminal and start Server**
 **Open another terminal and start as many clients as you want**
+
+
